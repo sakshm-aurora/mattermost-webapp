@@ -44,7 +44,7 @@
     "marked": "github:mattermost/marked#be741d411d4642c4cd3e009645f4cb6baa7e92bb",
     "moment-timezone": "0.5.33",
     "p-queue": "6.6.1",
-    "pdfjs-dist": "2.1.266",
+    "pdfjs-dist": "4.2.67",
     "popper.js": "1.16.1",
     "prettier": "2.2.1",
     "process": "0.11.10",
