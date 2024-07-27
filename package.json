@@ -13,7 +13,7 @@
     "@types/country-list": "2.1.0",
     "@types/react-overlays": "1.1.3",
     "@types/semver": "7.3.4",
-    "bootstrap": "3.4.1",
+    "bootstrap": "4.0.0",
     "chart.js": "2.9.4",
     "compass-mixins": "0.12.10",
     "core-js": "3.10.1",
