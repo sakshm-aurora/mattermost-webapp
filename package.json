@@ -63,7 +63,7 @@
     "react-is": "16.13.1",
     "react-overlays": "1.2.0",
     "react-redux": "7.2.3",
-    "react-router-dom": "5.2.0",
+    "react-router-dom": "6.0.0",
     "react-select": "2.4.4",
     "react-transition-group": "4.4.1",
     "react-virtualized-auto-sizer": "1.0.5",
