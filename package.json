@@ -18,7 +18,7 @@
     "compass-mixins": "0.12.10",
     "core-js": "3.10.1",
     "country-list": "2.2.0",
-    "crypto-browserify": "3.12.0",
+    "crypto-browserify": "3.12.1",
     "css-vars-ponyfill": "2.4.3",
     "dynamic-virtualized-list": "github:mattermost/dynamic-virtualized-list#119db968c96643c7106d4d2c965f05b2e251bc83",
     "emoji-regex": "9.2.2",
